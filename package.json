@@ -1,0 +1,15 @@
+{
+  "name": "baiduyun2ftp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YanCastle/baiduyun2ftp",
+  "author": "CastleMY <490523604@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "baidupanapi": "^1.2.3",
+    "ftp-srv": "^3.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.12"
+  }
+}
